@@ -55,10 +55,6 @@
       justify-content: center;
   }
 
-  .contact-info__item-icon path {
-      fill: var(--icon-color);
-  }
-
   .contact-info__item-icon {
       height: 1.1428rem;
       vertical-align: text-bottom;
