@@ -1,4 +1,4 @@
-@import "../styles/general-styles.css";
-@import "../styles/contact-info-styles.css";
-@import "../styles/exp-and-info-styles.css";
-@import "../styles/intro-and-skills-styles.css";
+@import "./styles/general-styles.css";
+@import "./styles/contact-info-styles.css";
+@import "./styles/exp-and-info-styles.css";
+@import "./styles/intro-and-skills-styles.css";
