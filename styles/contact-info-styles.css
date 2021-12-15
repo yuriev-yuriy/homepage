@@ -3,6 +3,11 @@
       text-align: center;
   }
 
+  .contact-info__header span {
+      display: block;
+      font-size: 1.6rem;
+  }
+
   .contact-info__header {
       color: var(--primary-text-color);
       margin-bottom: 15px;
@@ -19,14 +24,21 @@
       display: flex;
       flex-direction: column;
       justify-content: space-between;
+      max-width: 170px;
   }
+
+  .contact-info__block span {
+    color: var(--secondary-text-color);
+}
 
   .contact-info__block--center {
       justify-content: center;
   }
 
   .contact-info__item {
+      align-items: center;
       color: var(--secondary-text-color);
+      fill: var(--secondary-text-color);
       text-decoration: none;
       display: flex;
       justify-content: start;
